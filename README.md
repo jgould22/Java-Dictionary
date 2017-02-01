@@ -4,7 +4,7 @@ This is a java implementation of the Dictionary ADT / Hash Table
 Created for CS 2210 this is a java implementation of a simple compression and decompression application using a Dictionary
 
 ### Compile
-To compile use "javac *.java" in the src folder
+To compile use "javac *.java" in the src folder on linux(arch)
 
 ### Compress
 To compress a file use "java Compress *file*"
